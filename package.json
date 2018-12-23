@@ -1,0 +1,14 @@
+{
+  "name": "base-node",
+  "version": "1.0.0",
+  "description": "aplicacion de consola hacer tabla de multiplicar",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "joll",
+  "license": "ISC",
+  "dependencies": {
+    "yargs": "^12.0.5"
+  }
+}
